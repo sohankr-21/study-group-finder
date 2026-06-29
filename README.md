@@ -21,20 +21,21 @@ Study Group Finder is a full‑stack MERN application designed to help students 
 - Axios  
 
 ---
+## 📁 Project Structure
 
-## 📂 Project Structure  
+```text
 study-group-finder/
-│── backend/
+├── backend/
 │   ├── server.js
 │   ├── routes/
 │   └── models/
-│── frontend/
+├── frontend/
 │   ├── src/
 │   │   ├── components/
 │   │   ├── pages/
 │   │   └── App.js
-│── package.json
----
+└── package.json
+```
 
 ## ⚙️ How to Run  
 1. Download or clone the repository  
